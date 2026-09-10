@@ -1,0 +1,30 @@
+body{
+    background:burlywood;
+}
+.card{
+ width :90%;
+ max-width: 470 px;
+ background:linear-gradient(135deg,#00feba,#5b548a);
+ color:#fff;
+}
+.search button img{
+  width:16px;
+
+}
+.weather-icon{
+    width: 170px;
+    margin-top: 30px;
+}
+  .weather h1{
+    font-size:45px;
+    font-weight: 400;
+    margin-top: - 10px; 
+}
+ .details 
+ {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0 20 px;
+   margin-top: 50px;
+}
